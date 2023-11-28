@@ -1,5 +1,5 @@
 ### Olá, me chamo Gabriel David, tenho 19 e sou técnico em Redes de Computadores👋
-Atuo como desenvolvedor de I.A e desenvolvedor BackEnd em Python
+Atuo como desenvolvedor de I.A e desenvolvedor Back-End em Python
 
 ### Mais sobre mim e meus contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldavidrs/)
