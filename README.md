@@ -1,7 +1,5 @@
 ### Olá, me chamo Gabriel David, tenho 19 e sou técnico em Redes de Computadores👋
 
-![Gabriel´s GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gabrielddrs&show_icons=true&theme=tokyonight&count_private=true)
-
 ### Mais sobre mim e meus contatos
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gabrieldavidrs/)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-david-pcd-14b867232/)
