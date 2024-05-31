@@ -1,4 +1,4 @@
-### Olá, me chamo Gabriel David, tenho 19 e sou técnico em Redes de Computadores👋
+### Olá, me chamo Gabriel David, tenho 20 e sou técnico em Redes de Computadores👋
 Atuo como desenvolvedor de I.A e desenvolvedor Back-End em Python
 
 ### Mais sobre mim e meus contatos
